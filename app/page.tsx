@@ -31,7 +31,7 @@ export default function Home() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div className="flex justify-center">
             <Image
-              src="/placeholder.svg"
+              src="/photo_2025-02-03_19-47-54.jpg"
               alt="Amaravarapu Harsha Sai"
               width={400}
               height={400}

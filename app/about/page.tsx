@@ -1,11 +1,11 @@
 import Image from "next/image"
 
 const skills = [
-  { name: "Core", icon: "/icons/core.svg" },
-  { name: "Figma", icon: "/public/220px-Figma-logo.svg.webp" },
-  { name: "Unity", icon: "/public/220px-Unity_2021.svg.webp" },
-  { name: "GameMaker", icon: "/public/220px-GameMaker_Logo.webp" },
-  { name: "Blender", icon: "/public/220px-Blender_logo_no_text.svg.webp" },
+  { name: "Core", icon: "/favicon-196x196.png" },
+  { name: "Figma", icon: "/image-removebg-preview (2).png" },
+  { name: "Unity", icon: "/image-removebg-preview.png" },
+  { name: "GameMaker", icon: "/image-removebg-preview (1).png" },
+  { name: "Blender", icon: "/220px-Blender_logo_no_text.svg.webp" },
 ]
 
 export default function About() {
@@ -15,7 +15,7 @@ export default function About() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
         <div>
           <Image
-            src="/placeholder.svg"
+            src="/photo_2025-02-03_19-47-54.jpg"
             alt="Amaravarapu Harsha Sai"
             width={400}
             height={400}
